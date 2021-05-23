@@ -1,0 +1,7 @@
+node_modules
+uploads/*
+*.jpeg
+*.jpg
+*.png
+*.gif
+*.txt
