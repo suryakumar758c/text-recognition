@@ -6,8 +6,8 @@ Make sure Tesseract OCR engine is installed on your system, before executing thi
 
 It can be downloaded with below links,
 
-https://tesseract-ocr.github.io/tessdoc/Downloads.html
-https://sourceforge.net/projects/tesseract-ocr-alt/files/
+- https://tesseract-ocr.github.io/tessdoc/Downloads.html
+- https://sourceforge.net/projects/tesseract-ocr-alt/files/
 
 To verify tesseract installation, please execute the below command
 
