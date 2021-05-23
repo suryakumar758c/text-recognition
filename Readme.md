@@ -1,8 +1,5 @@
 ## Text-Recognition
 
-![alt tesseract](https://raw.githubusercontent.com/naptha/tesseract.js/HEAD/docs/images/tesseract.png)
-![alt nodejs](https://nodejs.org/static/images/logo.svg)
-
 Text recogniton from image using NodeJS and Tesseract OCR.
 
 Make sure Tesseract OCR engine is installed on your system, before executing this project.
